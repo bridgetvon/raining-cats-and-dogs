@@ -1,0 +1,15 @@
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/bin/Debug/net6.0/CatWorkx.BadgeMaker
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/bin/Debug/net6.0/CatWorkx.BadgeMaker.deps.json
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/bin/Debug/net6.0/CatWorkx.BadgeMaker.runtimeconfig.json
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/bin/Debug/net6.0/CatWorkx.BadgeMaker.dll
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/bin/Debug/net6.0/CatWorkx.BadgeMaker.pdb
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.csproj.AssemblyReference.cache
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.AssemblyInfo.cs
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.dll
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/refint/CatWorkx.BadgeMaker.dll
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.pdb
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/CatWorkx.BadgeMaker.genruntimeconfig.cache
+/Users/bridgetschaefer/CatWorkx.BadgeMaker/obj/Debug/net6.0/ref/CatWorkx.BadgeMaker.dll
